@@ -14,7 +14,7 @@
  */
 
 //assignment
-
+//comment with Francis assistance
 const whatToDoForLunch = function(hungry, availableTime) {
 
 // first thing to decide is whether or not you hungry, so thats a binary conditional, true/false. if false, command returns nothing; if true, then down the rabbit hole we go
